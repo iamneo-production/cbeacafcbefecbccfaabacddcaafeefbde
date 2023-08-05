@@ -1,6 +1,5 @@
-package controller;
-
-public class CalculateBMI
+package com.examly.springapp;
+public class SpringappApplication
  {
 
 
@@ -34,4 +33,4 @@ public class CalculateBMI
     }
   }
    
-   }
+ }
